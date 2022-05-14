@@ -1,2 +1,2 @@
 # ECE251-Processor
-Our final project: Verilog 4-bit CPU
+Final project: 4-bit Processor using Verilog
